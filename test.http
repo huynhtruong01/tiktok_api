@@ -1,0 +1,7 @@
+# GET 
+GET http://localhost:3000/api/videoList
+
+###
+
+# @name filterUniqueId
+GET http://localhost:3000/api/videoList?q=ngay
